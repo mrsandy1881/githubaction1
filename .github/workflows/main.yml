@@ -16,5 +16,5 @@ jobs:
             - name: print welcome message
               run: echo 'welcome to github action'
 
-              name: print hello message
+            - name: print hello message
               run: echo'hello'
